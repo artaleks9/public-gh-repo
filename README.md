@@ -1,3 +1,3 @@
-========= Test GitLab ============
+========= Test GitHub ============
 
-DS 3.x -> GitLab.com support in Openshift DevSpaces factory flow
+Che/DS 3.x -> GitHub.com support in Eclipse Che and Openshift DevSpaces factory flow
