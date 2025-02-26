@@ -2,7 +2,7 @@ schemaVersion: 2.2.0
 metadata:
   name: public-repo-testname
 projects:
-  - name: petclinic
+  - name: public-gh-repo
     git:
       remotes:
         origin: 'https://github.com/artaleks9/public-gh-repo.git'
